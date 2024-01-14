@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>تیله</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-01-14T17:15:55+03:30</updated>
+  <updated>2024-01-14T20:55:40+03:30</updated>
   <author>
     <name>فاطمه امیدی</name>
     <uri>http://localhost:4000/</uri>
@@ -20,11 +20,11 @@
 
   
   <entry>
-    <title>Angor</title>
-    <link href="http://localhost:4000/posts/angor/" rel="alternate" type="text/html" title="Angor" />
-    <published>2023-01-19T00:00:00+03:30</published>
+    <title>بی عنوان اول</title>
+    <link href="http://localhost:4000/posts/angor/" rel="alternate" type="text/html" title="بی عنوان اول" />
+    <published>2024-01-12T00:00:00+03:30</published>
   
-    <updated>2023-01-19T00:00:00+03:30</updated>
+    <updated>2024-01-12T00:00:00+03:30</updated>
   
     <id>http://localhost:4000/posts/angor/</id>
     <content src="http://localhost:4000/posts/angor/" />
@@ -33,6 +33,8 @@
     </author>
 
   
+    
+    <category term="غروب جمعه" />
     
   
 
@@ -44,8 +46,11 @@
 
 
 
-      
+      آخرین سالی که درخت مو بار داد رو یادته؟
 
+هر سال به دلمون صابون می زدیم فصل عوض میشه و باز از انگورهای شیرینش می خوریم. ولی اون سال، دلیلش هرچی که بود، درخت خشکید. درخت خشکید و ما دیگه از انگورهاش نخوردیم.
+
+چند وقتی هست که با دو تا از دوستای چندین ساله ام، هرشب قرار می ذاریم و میریم سالن ورزش می کنیم. دیشب داشتیم نوبتی تنیس روی میز بازی می کردیم. با حرکات ناشیانه مون به توپ ضربه می زدیم و اغلب خ...
     </summary>
   
 
