@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>تیله</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2023-12-31T13:22:02+03:30</updated>
+  <updated>2024-01-15T14:53:16+03:30</updated>
   <author>
     <name>فاطمه امیدی</name>
     <uri>http://localhost:4000/</uri>
@@ -13,10 +13,48 @@
   <link rel="alternate" type="text/html" hreflang="fa"
     href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
-  <rights> © 2023 فاطمه امیدی </rights>
+  <rights> © 2024 فاطمه امیدی </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>بی عنوان اول</title>
+    <link href="http://localhost:4000/posts/angor/" rel="alternate" type="text/html" title="بی عنوان اول" />
+    <published>2024-01-12T00:00:00+03:30</published>
+  
+    <updated>2024-01-12T00:00:00+03:30</updated>
+  
+    <id>http://localhost:4000/posts/angor/</id>
+    <content src="http://localhost:4000/posts/angor/" />
+    <author>
+      <name>فاطمه امیدی</name>
+    </author>
+
+  
+    
+    <category term="غروب جمعه" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      آخرین سالی که درخت مو بار داد رو یادته؟
+
+هر سال به دلمون صابون می زدیم فصل عوض میشه و باز از انگورهای شیرینش می خوریم. ولی اون سال، دلیلش هرچی که بود، درخت خشکید. درخت خشکید و ما دیگه از انگورهاش نخوردیم.
+
+چند وقتی هست که با دو تا از دوستای چندین ساله ام، هرشب قرار می ذاریم و میریم سالن ورزش می کنیم. دیشب داشتیم نوبتی تنیس روی میز بازی می کردیم. با حرکات ناشیانه مون به توپ ضربه می زدیم و اغلب خ...
+    </summary>
+  
+
+  </entry>
 
 </feed>
 

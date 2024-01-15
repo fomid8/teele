@@ -16,7 +16,7 @@ timezone: Asia/Tehran
 
 title: تیله # the main title
 
-tagline: یادی از لحظاتی گذرا # it will display as the sub-title
+tagline: لحظه ای گذرا # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
