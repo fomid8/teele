@@ -8,7 +8,14 @@ main {
     direction: rtl;
   }
 
-
-header {
-    direction:rtl;
+.site-title {
+    direction: rtl;
   }
+
+#archives {
+  direction: ltr;
+}
+
+search {
+  direction: rtl;
+}
