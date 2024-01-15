@@ -4,14 +4,14 @@
 
 layout:
   post: پست
-  category: دسته بندی
+  category: دسنه بندی
   tag: برچسب
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
   home: خانه
-  categories: دسته بندی ها
+  categories: دسنه بندی ها
   tags: برچسب ها
   archives: آرشیو
   about: درباره
@@ -35,17 +35,15 @@ copyright:
     link: https://creativecommons.org/licenses/by/4.0/
 
   # Displayed in the footer
-  brief: برخی از حقوق محفوظ است
+  brief: برخی از حقوق محفوظ است.
   verbose: >-
-    به جز مواردی که ذکر شده‌اند، پست های وبلاگ در این سایت تحت مجوز 
-    Creative Commons Attribution 4.0 International (CC BY 4.0) 
-    .توسط نویسنده هستند 
-
+    به جز مواردی که در غیر این صورت ذکر شده باشد، پست های وبلاگ در این سایت دارای مجوز هستند
+     تحت مجوز Creative Commons Attribution 4.0 International (CC BY 4.0) توسط نویسنده.
 
 meta: :PLATFORM برای :THEME استفاده از تم 
 
 not_found:
-  statment:.متأسفیم، لینک را اشتباه قرار داده ایم یا دیگر وجود ندارد
+  statment:متأسفیم، لینک را اشتباه قرار داده ایم یا دیگر وجود ندارد.
 
 notification:
   update_found: نسخه جدیدی از محتوا در دسترس است.
