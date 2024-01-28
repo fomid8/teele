@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>تیله</title>
   <subtitle>وب سایتی از یاداشت های روزانه A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-01-24T21:06:38+03:30</updated>
+  <updated>2024-01-28T20:34:50+03:30</updated>
   <author>
     <name>فاطمه امیدی</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,44 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>بی عنوان سوم</title>
+    <link href="http://localhost:4000/posts/tars/" rel="alternate" type="text/html" title="بی عنوان سوم" />
+    <published>2024-01-26T00:00:00+03:30</published>
+  
+    <updated>2024-01-26T00:00:00+03:30</updated>
+  
+    <id>http://localhost:4000/posts/tars/</id>
+    <content src="http://localhost:4000/posts/tars/" />
+    <author>
+      <name>فاطمه امیدی</name>
+    </author>
+
+  
+    
+    <category term="غروب جمعه" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      تماشای بچه ها جالبه.
+
+دیدن انسان‌هایی که کوچک اند و برای آینده نقشه‌های بزرگ می کشند. و از اون جالب‌تر، به تلاش هاشون شک نمی کنند. خنده‌دار به نظر میاد اگه از بچه بپرسیم اگه نقاشی‌ای که داری می کشی خوب از کار در نیومد چی؟ یا اگه این همه تلاشی که برای درس‌های مدرسه می کنی هیچ و پوچ بشه چی؟ مگه نه؟
+
+هرچند که جواب این جور سوال‌ها برای ما به این سادگی نیست. قبل از اینکه بفهمم یک آدم ترسو شدم. و نمی...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
