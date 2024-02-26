@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>تیله</title>
   <subtitle>وب سایتی از یاداشت های روزانه A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-01-28T20:34:50+03:30</updated>
+  <updated>2024-02-26T21:25:45+03:30</updated>
   <author>
     <name>فاطمه امیدی</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/tars/" rel="alternate" type="text/html" title="بی عنوان سوم" />
     <published>2024-01-26T00:00:00+03:30</published>
   
-    <updated>2024-01-26T00:00:00+03:30</updated>
+    <updated>2024-01-28T20:36:10+03:30</updated>
   
     <id>http://localhost:4000/posts/tars/</id>
     <content src="http://localhost:4000/posts/tars/" />
