@@ -4,5 +4,5 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> :)
+> وب سایت شخصی من :)
 {: .prompt-tip }

@@ -16,10 +16,10 @@ timezone: Asia/Tehran
 
 title: تیله # the main title
 
-tagline: لحظه ای گذرا # it will display as the sub-title
+tagline: In The Blue Marble # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  وب سایتی از یاداشت های روزانه
+  وب سایت یاداشت های فاطمه امیدی
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
