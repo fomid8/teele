@@ -5,12 +5,12 @@
 
 /* append your custom style below */
 main {
-    direction: rtl;
-  }
+  direction: rtl;
+}
 
 .site-title {
-    direction: rtl;
-  }
+  direction: rtl;
+}
 
 #archives {
   direction: ltr;
@@ -18,4 +18,8 @@ main {
 
 search {
   direction: rtl;
+}
+
+.language-sh {
+  direction: ltr;
 }

@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>تیله</title>
   <subtitle>وب سایت یاداشت های فاطمه امیدی A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-02-27T14:38:29+03:30</updated>
+  <updated>2024-03-26T17:31:25+03:30</updated>
   <author>
     <name>فاطمه امیدی</name>
     <uri>http://localhost:4000/</uri>
@@ -20,11 +20,58 @@
 
   
   <entry>
+    <title>Private Routes in React</title>
+    <link href="http://localhost:4000/posts/PrivateRoutesReact/" rel="alternate" type="text/html" title="Private Routes in React" />
+    <published>2024-03-26T00:00:00+03:30</published>
+  
+    <updated>2024-03-26T00:00:00+03:30</updated>
+  
+    <id>http://localhost:4000/posts/PrivateRoutesReact/</id>
+    <content src="http://localhost:4000/posts/PrivateRoutesReact/" />
+    <author>
+      <name>فاطمه امیدی</name>
+    </author>
+
+  
+    
+    <category term="ری‌اکت" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      چطور Private Route را در React پیاده سازی کنیم؟
+
+در
+React
+برای ساختن و مدیریت مسیر های کامپوننت ها از
+react-router-dom
+استفاده می‌کنیم.
+
+گاهی اوقات برای بعضی از صفحات نیاز به احراز هویت داریم. برای اینکار تابعی پیاده سازی می‌کنیم تا تنها اگر کاربر لاگین کرده بود به مسیر مورد نظر دسترسی داشته باشه. در غیر این صورت به صفحه لاگین هدایت بشه.
+
+قدم 1 : نصب و وارد کردن react-router-dom
+
+اگر
+ react-rou...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>مرور بر غول مدفون</title>
     <link href="http://localhost:4000/posts/ghol/" rel="alternate" type="text/html" title="مرور بر غول مدفون" />
     <published>2024-02-26T00:00:00+03:30</published>
   
-    <updated>2024-02-26T00:00:00+03:30</updated>
+    <updated>2024-02-27T14:39:13+03:30</updated>
   
     <id>http://localhost:4000/posts/ghol/</id>
     <content src="http://localhost:4000/posts/ghol/" />
